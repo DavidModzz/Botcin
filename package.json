@@ -1,0 +1,12 @@
+{
+  "name": "Samael Bot",
+  "version": "0.0.0",
+  "description": "No seas Gil",
+  "main": "Zzz.js",
+  "scripts": {
+  "start": "node Zzz.js"
+  },
+  "dependencies": {
+    "@adiwajshing/baileys": "^3.4.1"
+  }
+}
